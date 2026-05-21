@@ -41,7 +41,7 @@ Kaggle:
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 ### Dataset Details
-- ~20,000+ news articles
+- almost 20,000 news articles
 - Binary classification task
 
 ### Features
