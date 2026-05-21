@@ -46,7 +46,7 @@ https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 | text | Full article text |
 | label | Target class (0 = Fake, 1 = Real) |
 
-The dataset contains more than 20,000 news articles and is balanced between fake and real classes.
+The dataset contains almost 20,000 news articles and is balanced between fake and real classes.
 
 ---
 
@@ -219,23 +219,8 @@ Deep learning models do not always outperform simpler machine learning models. I
 
 ---
 
-# 15. Streamlit Application
 
-A simple Streamlit web application was developed for real-time fake news prediction.
-
-## Application Features
-
-Users can:
-
-- Enter a news article
-- Click the prediction button
-- Receive Fake or Real prediction
-
-The application demonstrates practical usability of the model.
-
----
-
-# 16. Challenges and Limitations
+# 15. Challenges and Limitations
 
 ## Challenges
 
@@ -252,7 +237,7 @@ The application demonstrates practical usability of the model.
 
 ---
 
-# 17. Conclusion
+# 16. Conclusion
 
 This project successfully implemented a complete fake news detection pipeline using both machine learning and deep learning techniques.
 
@@ -264,7 +249,6 @@ The project included:
 - Transformer exploration
 - Model comparison
 - Error analysis
-- Streamlit application
 
 The results demonstrate that both traditional and deep learning approaches can perform effectively on NLP classification tasks.
 
@@ -272,7 +256,7 @@ An important conclusion from this project is that simpler models can sometimes o
 
 ---
 
-# 18. Future Improvements
+# 17. Future Improvements
 
 Possible future improvements include:
 
@@ -284,7 +268,7 @@ Possible future improvements include:
 
 ---
 
-# 19. References
+# 18. References
 
 1. Kaggle Fake and Real News Dataset  
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
@@ -298,5 +282,3 @@ https://huggingface.co/docs/transformers/index
 4. Scikit-learn Documentation  
 https://scikit-learn.org/
 
-5. Streamlit Documentation  
-https://streamlit.io/
