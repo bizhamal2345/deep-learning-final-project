@@ -6,4 +6,3 @@ seaborn
 torch
 tensorflow
 transformers
-streamlit
